@@ -3,9 +3,8 @@
 residu
 Institut Icària
 Programació - 1r Batxillerat - Curs 2023-24
-Dividim dos nomres o fent que ho siguin depres fem la divisio de dos nomres
-coresponent i donem com a reultats el quocient i el reidu de la divisio.
-programa i el resultat esperat.
+Dividim entre ells dos nomres enters i donem com a resultat el
+quocient i el  residu de la divisio corresponent.
 '''
 __author__ = "Tristan Bert"
 __email__ = "tbert@instituticaria.cat"
